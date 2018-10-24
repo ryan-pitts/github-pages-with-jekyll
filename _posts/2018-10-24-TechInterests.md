@@ -2,7 +2,7 @@
 title: "Tech Interests"
 date: 2018-10-24
 ---
-## Top 10 Technologies, Tools, or Skills I'm Interested in RN ##
+## Top 10 technologies, tools, and skills of interest ##
 
 1. Git
    - GitHub
